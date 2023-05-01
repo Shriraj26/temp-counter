@@ -1,0 +1,23 @@
+.ctrDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  /* border: 1px solid red; */
+}
+
+.btn {
+  height: 100px;
+  width: 100px;
+  background-color: aquamarine;
+  font-size: 50px;
+  border: 1px solid aqua;
+  border-radius: 10%;
+}
+
+.ctr {
+  font-weight: bold;
+  font-size: 100px;
+}
